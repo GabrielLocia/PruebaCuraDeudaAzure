@@ -15,7 +15,7 @@ filtrado = []
 
 @app.route('/')
 def home():
-    return 'hello wold'
+    return 'hello world'
 
 
 @app.route('/Carga')
